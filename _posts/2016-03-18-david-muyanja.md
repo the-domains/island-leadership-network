@@ -1,24 +1,23 @@
 ---
-inFeed: false
-hasPage: true
+inFeed: true
+hasPage: false
 inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: Pastor Profile
-datePublished: '2016-03-18T13:12:08.847Z'
-dateModified: '2016-03-18T13:10:13.081Z'
+description: 'David & Karen Muyanja'
+datePublished: '2016-03-18T13:21:47.334Z'
+dateModified: '2016-03-18T13:21:03.388Z'
 title: David Muyanja
 author: []
+sourcePath: _posts/2016-03-18-david-muyanja.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-18-david-muyanja.md
-published: true
-url: david-muyanja/index.html
 _type: Blurb
 
 ---
